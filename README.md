@@ -49,7 +49,7 @@ Googleが開発した制約充足・数理最適化ソルバー **Google OR-Tool
 ## 🚀 クイックスタート
 
 ### 1. 必要ライブラリのインストール
-```bash
+```
 pip install customtkinter ortools pandas jpholiday
 ```
 
@@ -81,6 +81,5 @@ python main.py
 ```
 
 ### 📄 ライセンス
-```
+
 本プロジェクトは MIT License のもとで公開されています。
-```
