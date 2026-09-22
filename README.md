@@ -53,11 +53,10 @@ Googleが開発した制約充足・数理最適化ソルバー **Google OR-Tool
 pip install customtkinter ortools pandas jpholiday
 
 ### 2. アプリケーションの起動
-```bash
+bash
 python main.py
 
 ### 3. 操作フロー
-```
 対象の「年・月」を指定します。
 
 「📂 スタッフCSV読込」からスタッフ情報をインポート（未指定時はデフォルト16名で動作）。
@@ -78,5 +77,4 @@ python main.py
 
 ### 📄 ライセンス
 本プロジェクトは MIT License のもとで公開されています。
-📄 ライセンス
-本プロジェクトは MIT License のもとで公開されています。
+
